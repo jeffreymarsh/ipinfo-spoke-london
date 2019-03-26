@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_action_type_definition">
+    <sys_hub_action_type_definition action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>true</active>
+        <annotation/>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description/>
+        <internal_name>get_lego_sets</internal_name>
+        <label_cache>[]</label_cache>
+        <latest_snapshot>93c78bd7dbd03300060a0d53ca961912</latest_snapshot>
+        <master_snapshot>afc78bd7dbd03300060a0d53ca96194c</master_snapshot>
+        <name>Get LEGO Sets</name>
+        <outputs/>
+        <state>draft</state>
+        <sys_class_name>sys_hub_action_type_definition</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-25 17:47:56</sys_created_on>
+        <sys_id>e2e58317dbd03300060a0d53ca9619af</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>Get LEGO Sets</sys_name>
+        <sys_package display_value="Rebrickable Spoke" source="x_320776_rebrickab">986f32d7db903300060a0d53ca961946</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rebrickable Spoke">986f32d7db903300060a0d53ca961946</sys_scope>
+        <sys_update_name>sys_hub_action_type_definition_e2e58317dbd03300060a0d53ca9619af</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-25 17:57:01</sys_updated_on>
+        <system_level>false</system_level>
+        <type/>
+    </sys_hub_action_type_definition>
+    <sys_translated_text action="delete_multiple" query="documentkey=e2e58317dbd03300060a0d53ca9619af"/>
+    <sys_variable_value action="delete_multiple" query="document_key=e2e58317dbd03300060a0d53ca9619af"/>
+</record_update>
